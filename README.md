@@ -36,7 +36,7 @@ We welcome your reported issues, pull requests, and new solution samples. Please
 | InventoryCheckOut  | Manage a list of items in an inventory, and let users check out and reserve items. | [Link](./solutions/InventoryCheckOut/README.md) | 
 | Site Designs Studio | Enables the management of Site Designs and Site Scripts directly in the browser | [Link](./solutions/SiteDesignsStudio/README.md) |
 | TimeAway           | Provides a simple out-of-office tracker for members of your team.                  | [Link](./solutions/TimeAway/README.md) | 
-| ModernSearch       | User friendly search experience in the modern SharePoint interface              | [Link](./solutions/ModernSearch/react-search-refiners/README.md) | 
+| ModernSearch       | User friendly search experience in the modern SharePoint interface              | [Link]([https://github.com/microsoft-search/pnp-modern-search]) | 
 | ModernSearchRenderers          | Custom renderers for the ModernSearch solution.      | [Link](./solutions/ModernSearch/react-search-refiners-renderer/README.md) | 
  
 ## Additional resources
